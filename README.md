@@ -1,4 +1,5 @@
 # Input Validation and Manipulation
+<img src="https://github.com/user-attachments/assets/bcd20b5b-be88-4f6c-98ea-87b9ad141cf6" width="500" />
 
 ## Project Overview
 This project is a C# Windows Forms application that demonstrates input validation, string manipulation, and playing card validation. The app features a set of functionalities for validating user input (such as alphabetic characters, numeric characters, and punctuation), manipulating text (splitting and extracting alphanumeric characters), and validating and saving playing card information to a file.
